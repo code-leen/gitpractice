@@ -1,6 +1,7 @@
 One
 two
-three
+ready?
+Go!
 
 this is pretty cool stuff
 i am excited to learn more from this class!
